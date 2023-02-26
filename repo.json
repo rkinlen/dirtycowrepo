@@ -6,7 +6,7 @@
 	"Tweaked": [{
 		"name": "Santander",
 		"version": "18.01.6",
-		"down": "https://github.com/pwnd2e/SantanderMacDirtyCow/releases/download/1.0/Santander.ipa",
+		"down": "https://github.com/mineek/SantanderMacDirtyCow/suites/10373573381/artifacts/511699941",
 		"category": "File Manager",
 		"description": "A new, enhanced File Manager for iOS devices. You can navigate and modify a lot of system files using this app.",
                 "icon": "https://raw.githubusercontent.com/Ibinou/NoCodeHub-icons/main/5658B2AB-C7E7-4FFB-84E7-7599F0691DF1.png",
@@ -17,7 +17,7 @@
 	}, {
 		"name": "Cowabunga",
 		"version": "8.0.3",
-		"down": "https://github.com/leminlimez/Cowabunga/releases/download/v8.0.3/Cowabunga.ipa",
+		"down": "https://github.com/leminlimez/Cowabunga/releases/download/latest/Cowabunga.ipa",
 		"category": "All in one",
                 "changelog": "Fixed crash when opening app with wifi",
 		"description": "A Jailed toolbox application for iOS 14.0-15.7.1 and 16.0-16.1.2 using CVE-2022-46689.",
